@@ -20,6 +20,11 @@ Hata düzeltmeleri
 
 ### v1.0 
 
+Türkçe ve İngilizce dil desteği
+
+![hocam-helpios](https://user-images.githubusercontent.com/29977489/182686712-e6d89f89-152a-47b4-ade7-e9622bc4651e.png)
+
+
 CGPA hesaplama
 
 GPA hesaplama
